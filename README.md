@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Simonrpo
-- 👀 I’m interested in Data, mainly in Data architecture.
-- 🌱 I’m currently learning about modern data platforms such as LakeHouse.
-- 💞️ I’m looking to collaborate about Data in general.
-- 📫 My email is simonrpo325@gmail.com.
+- 👀 I’m interested in Data Engineering & Data Architecture.
 
 <!---
 Simonrpo/Simonrpo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
